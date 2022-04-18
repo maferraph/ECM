@@ -1,0 +1,783 @@
+TABLE.TabTit1 {
+	width : 95%;
+	border : 0px;
+}
+
+TR.Linl001 {
+	height : 20.0pt;
+}
+
+TD.Col001 {
+	height : 26.0pt;
+	color:yellow;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double windowtext;
+	border-right:2.0pt double windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:2.0pt double windowtext;
+	background:blue;
+}
+
+TD.CSTE001  {
+	color:red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt solid windowtext;
+	border-left:2.0pt double windowtext;
+	background:silver;
+}
+
+TD.CSTME001 {
+	color:red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CSTMD001 {
+	color:red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CSTVU001 {
+	color:red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:2.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+TD.CNI001  {
+	font-family:Arial, sans-serif;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom: 1.0pt solid windowtext;
+	border-left:2.0pt double windowtext;
+	padding-left : 5px;
+	background:silver;
+}
+
+TD.CMEI001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CMDI001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CVUI001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+TD.CN001  {
+	font-family:Arial, sans-serif;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom: 1.0pt solid windowtext;
+	border-left:2.0pt double windowtext;
+	padding-left : 5px;
+	background:silver;
+}
+
+TD.CME001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CMD001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CVU001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+TD.CNF001  {
+	font-family:Arial, sans-serif;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom: 2.0pt double windowtext;
+	border-left:2.0pt double windowtext;
+	padding-left : 5px;
+	background:silver;
+}
+
+TD.CMEF001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CMDF001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CVUF001  {
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+.xl25 {
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:2.0pt double windowtext;
+	background:silver;
+}
+.xl26	{
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:2.0pt double windowtext;
+	background:silver;
+}
+.xl27	{
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:2.0pt double windowtext;
+	background:#969696;
+}
+.xl28	{
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:2.0pt double black;
+	border-left:2.0pt double windowtext;
+	background:#969696;
+}
+.xl29	{
+	color:red;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+}
+.xl30	{
+	color:red;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double windowtext;
+	border-right:2.0pt double windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+}
+.xl31	{
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#CCFFFF;
+}
+.xl32	{
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#CCFFFF;
+}
+.xl33	{
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#CCFFFF;
+}
+.xl34 	{
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#CCFFFF;
+}
+.xl35	{
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#CCFFFF;
+}
+.xl36	{
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#CCFFFF;
+}
+.xl37	{
+	color:red;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#99CCFF;
+}
+.xl38	{
+	color:red;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#99CCFF;
+}
+.xl39	{
+	color:red;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:yellow;
+}
+.xl40	{
+	color:red;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#99CCFF;
+}
+
+TD.CNEE1  {
+	color:#333399;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:2.0pt double windowtext;
+	background:#99CCFF;
+}
+
+TD.CNEVP1  {
+	color:#333399;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#99CCFF;
+}
+
+TD.CNEVC1  {
+	color:#333399;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:2.0pt double windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#99CCFF;
+}
+
+TD.CSTN1  {
+	color: Red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:2.0pt double windowtext;
+	background:#FFFF99;
+}
+
+TD.CSTE1 {
+	color:red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:2.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CSTD1 {
+	color:red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+
+TD.CSTNEE1 {
+	color:red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:2.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+TD.CSTNED1 {
+	color:red;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+TD.NS {
+	color: Black;
+	font-weight: bold;
+	font-family:Arial, sans-serif;
+	font-size:12.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:2.0pt double windowtext;
+	border-bottom:2.0pt solid windowtext;
+	border-left:2.0pt double windowtext;
+	background:#969696;
+}
+
+TD.ND {
+	color: Black;
+	font-weight: normal;
+	font-family:Arial, sans-serif;
+	font-size:10.0pt;
+	text-align: left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt double windowtext;
+	background: Silver;
+	padding-left : 5px;
+}
+
+TD.NFEC {
+	color: Black;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background: White;
+}
+
+TD.CEAMAR {
+	color:Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CDAMAR {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFFF99;
+}
+
+TD.CVE  {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+TD.CVD  {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+TD.CVU  {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:2.0pt double windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#CCFFFF;
+}
+
+TD.CEBEG {
+	color:Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FFCC99;
+}
+
+TD.CDBEG {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFCC99;
+}
+
+TD.CELAR {
+	color:Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FFCC00;
+}
+
+TD.CDLAR {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFCC00;
+}
+
+TD.CEVER {
+	color:Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FF8080;
+}
+
+TD.CDVER {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FF8080;
+}
+
+TD.CEROS {
+	color:Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#FF99CC;
+}
+
+TD.CDROS {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FF99CC;
+}
+
+TD.CEAZU {
+	color:Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:2.0pt solid windowtext;
+	background:#99CCFF;
+}
+
+TD.CDAZU {
+	color: Black;
+	font-family:Arial, sans-serif;
+	font-weight: bolder;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#99CCFF;
+}
+
+TD.TXT {
+	text-align: justify;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background: White;
+}

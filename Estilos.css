@@ -1,0 +1,83 @@
+BODY {
+	background : White;
+}
+
+A {
+	text-decoration : none;
+}
+
+FONT.FBT {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: Yellow;
+	font-weight : bold;
+}
+
+FONT.F1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: White;
+	font-weight : bold;
+}
+
+FONT.F2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: Black;
+	font-weight : 700;
+}
+
+FONT.FM {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: smaller;
+	color: White;
+	font-weight : bold;
+	text-align : center;
+}
+
+FONT.FT {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	color: Navy;
+	font-weight : bold;
+	text-align : justify;
+	padding-left : 5px;
+}
+
+FONT.FS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: Navy;
+	font-weight : bold;
+	text-align : justify;
+	padding-left : 5px;
+}
+
+FONT.FX {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: Black;
+	font-weight : normal;
+	margin-left : 10px;
+	text-align : justify;
+	padding-left : 5px;
+}
+
+FONT.FR {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: White;
+	font-weight : bold;
+	margin-left : 10px;
+}
+
+FONT.FA {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: Red;
+	font-weight : bold;
+	margin-left : 10px;
+	text-align : justify;
+	padding-left : 5px;
+}
+
